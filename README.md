@@ -22,4 +22,6 @@
 - Saffron Cultivation
 
 ## 📫 Connect with Me
+- Linkedin: https://www.linkedin.com/in/mohammad-aqeeb-baba-b7190535b?utm_source=share_via&utm_content=profile&utm_medium=member_android
+- Email: mohammadaqeeb2004@gmail.com
 - GitHub: @Aqeeb-source
