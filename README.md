@@ -7,7 +7,7 @@
 - Python
 - GIS & Remote Sensing
 - Passionate about solving real-world problems using data
-- Experienced in smart agriculture and Iot sensors
+- Experienced in smart agriculture and Iot sensors 
 
 ## 🛠 Skills
 - Python
